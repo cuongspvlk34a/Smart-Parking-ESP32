@@ -194,7 +194,7 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 4. BotFather hỏi username → gõ username kết thúc bằng `bot`, ví dụ: `SmartParking2025_bot`
 5. BotFather gửi lại **BOT_TOKEN** dạng:
 ```
-8572713614:AAEmXgB46UPmb2Lonp8zdHIStlcY2_uPHys
+8572713614:AAEmXgB...............
 ```
 → Copy lưu lại token này
 
@@ -204,7 +204,7 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 2. Nhấn **Start** hoặc gõ `/start`
 3. Bot trả về thông tin, tìm dòng **"Id:"**:
 ```
-Id: 6633882197
+Id: 663........
 ```
 → Copy lưu lại số ID này
 
